@@ -2,7 +2,7 @@
 
 This project uses computer vision to detect hand gestures and simulate a jump action (spacebar press) in games or applications. It leverages the MediaPipe library for hand tracking and OpenCV for webcam input processing.
 
-![Uploading gg.jpg…]()
+![Screenshot 2025-04-29 205045](https://github.com/user-attachments/assets/b130b712-1d08-443a-98c3-6028631cd7df)
 
 
 ## Features
